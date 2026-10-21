@@ -131,7 +131,7 @@ FastAPI (app/main.py)
 ## 📁 Project Structure
 
 ```
-smart-claims-agent-project/
+Azure-Insurance-Claim-Guard-AI/
 ├── app/
 │   ├── agent_service.py       # Agent lifecycle, tool config, chat routing
 │   ├── main.py                # FastAPI routes and app setup
@@ -178,8 +178,8 @@ smart-claims-agent-project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MAOFILHO/Portfolio-Projects/tree/main/smart-claims-agent
-cd smart-claims-agent-project
+git clone https://github.com/MAOFILHO/Azure-Insurance-Claim-Guard-AI.git
+cd Azure-Insurance-Claim-Guard-AI
 ```
 
 ### 2. Create and activate a virtual environment
